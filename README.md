@@ -13,9 +13,7 @@
 - 💬 Ask me about **Java, Python,Machine Learning, Aws Cloud**
 
 - 📫 Reach out to me at **rakshitha55ramesh@gmail.com.com**
-<div>
 <br>
-</div>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
