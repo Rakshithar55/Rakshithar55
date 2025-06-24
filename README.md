@@ -6,15 +6,13 @@
 
 - 🌱 I’m currently been learning **React, Node.js and Machine Learning**
 
-- 👨‍💻 I’m currently an Full Stack Intern - ParvaM Pvt.Ltd ****
+- 👨‍💻 I’m currently an **Full Stack Intern - ParvaM Pvt.Ltd**
   
 - 💻 All of my projects are available on [GitHub](https://github.com/Rakshithar55)
 
 - 💬 Ask me about **Java, Python,Machine Learning, Aws Cloud**
 
 - 📫 Reach out to me at **rakshitha55ramesh@gmail.com.com**
-
-<h3 align="left">GitHub Stats:</h3>
 <div>
 <br>
 </div>
